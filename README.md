@@ -1,6 +1,4 @@
-# LICENSE
-
-## MIT License
+# MIT LICENSE
 
 ### Copyright (c) 2021 Kratu Desai, DESAIGN LLC.
 
